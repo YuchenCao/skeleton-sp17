@@ -66,4 +66,12 @@ public class IntListTest {
         assertEquals(IntList.list(1, 2, 3), A);
     }
 
+    /**public void main (String[] args) {
+        testList();
+        testdSquareList();
+        testSquareListRecursive();
+        testDcatenate();
+        testCatenate();
+    }*/
+
 }
